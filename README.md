@@ -18,15 +18,16 @@ Ouvrez une fenêtre de terminal (PowerShell ou Command Prompt) et clonez le dép
 
 ```bash
 git clone https://github.com/Sanessy/MachineEnigma.git
+```
 
 Une fois le dépôt cloné, déplacez-vous dans le répertoire du projet avec la commande suivante :
 
-`
+```bash
 cd <CHEMIN_VERS_LE_REPERTOIRE>
-
+```
 Excuter la machine enigma
 
-
+```bash
 python enigma.py ou .\enigma.py
 
 ```
