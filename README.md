@@ -16,7 +16,7 @@ Pour cloner ce projet sur votre machine, exécutez la commande suivante : git cl
 
 - Python 3
 - Aucune dépendance externe spécifique n'est requise.
-- 
+  
 ## Exemple d'utilisation
 
 1. Le programme vous demandera de saisir dans un premier temps :
