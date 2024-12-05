@@ -16,18 +16,18 @@ Pour cloner ce projet sur votre machine, exécutez la commande suivante : git cl
 
 - Python 3
 - Aucune dépendance externe spécifique n'est requise.
-
+- 
 ## Exemple d'utilisation
 
 1. Le programme vous demandera de saisir dans un premier temps :
-   
-   1.1  **Phrase à chiffrer** : par exemple, `cryptographie`.
-   1.2  **Configuration initiale** : une série de lettres pour une premiere substition, par exemple `qsdfghjklmwxc`.
+
+    1.1 **Phrase à chiffrer** : par exemple, `cryptographie`.  
+    1.2 **Configuration initiale** : une série de lettres pour une première substitution, par exemple `qsdfghjklmwxc`.  
     
-  _NB : le nombre de lettre saisie pour la substitution doit concorder avec le nombre de lettre du texte que l'on souhaite chiffrer_ .
-   
-   1.3 - **Positions des rotors** : entrez les positions initiales des trois rotors, par exemple `1`, `3`, `5`.
-   
+    _NB : le nombre de lettres saisies pour la substitution doit concorder avec le nombre de lettres du texte que l'on souhaite chiffrer_.
+    
+    1.3 **Positions des rotors** : entrez les positions initiales des trois rotors, par exemple `1`, `3`, `5`.
+
 2. Le programme retourne le message chiffré après application des étapes
 3. Le programme vous demande si vous souhaitez déchiffrer le message : "oui" ou "non"
 
