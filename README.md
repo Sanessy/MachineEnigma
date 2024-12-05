@@ -21,14 +21,15 @@ git clone https://github.com/Sanessy/MachineEnigma.git
 
 Une fois le dépôt cloné, déplacez-vous dans le répertoire du projet avec la commande suivante :
 
-```bash
+`
 cd <CHEMIN_VERS_LE_REPERTOIRE>
 
 Excuter la machine enigma
 
-```bash
-python enigma.py
 
+python enigma.py ou .\enigma.py
+
+```
 ## Prérequis
 
 - Python 3
