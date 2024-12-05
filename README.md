@@ -23,7 +23,7 @@ Pour cloner ce projet sur votre machine, exécutez la commande suivante : git cl
    
    -1.1  **Phrase à chiffrer** : par exemple, `cryptographie`.
    -1.2  **Configuration initiale** : une série de lettres pour une premiere substition, par exemple `qsdfghjklmwxc`.   
-  -  _NB : le nombre de lettre saisie pour la substitution doit concorder avec le nombre de lettre du texte que l'on souhaite chiffrer_
+  -  _NB : le nombre de lettre saisie pour la substitution doit concorder avec le nombre de lettre du texte que l'on souhaite chiffrer_ .
    -1.3 - **Positions des rotors** : entrez les positions initiales des trois rotors, par exemple `1`, `3`, `5`.
    
 2. Le programme retourne le message chiffré après application des étapes
