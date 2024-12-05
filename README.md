@@ -10,7 +10,7 @@ Ce projet est écrit en **Python** 3.10.12 dans Google Colab
 
 ## Cloner le projet
 
-Pour cloner ce projet sur votre machine, exécutez la commande suivante : git clone https://github.com/
+Pour cloner ce projet sur votre machine, exécutez la commande suivante : git clone https://github.com/Sanessy/MachineEnigma.git
 
 ## Prérequis
 
