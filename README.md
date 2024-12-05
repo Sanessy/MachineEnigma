@@ -6,7 +6,7 @@ Ce projet dans le cadre du module de M2 MIAGE de Cryptographie & Blockchain impl
 
 ## Langage
 
-Ce projet est écrit en **Python** 3.10.12 dans Google Colab
+Ce projet est écrit en **Python** 3.10.12 
 
 ## Executer le projet
 
