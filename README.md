@@ -8,9 +8,26 @@ Ce projet dans le cadre du module de M2 MIAGE de Cryptographie & Blockchain impl
 
 Ce projet est écrit en **Python** 3.10.12 dans Google Colab
 
-## Cloner le projet
+## Executer le projet
 
 Pour cloner ce projet sur votre machine, exécutez la commande suivante : git clone https://github.com/Sanessy/MachineEnigma.git
+
+### 1. Cloner le dépôt
+
+Ouvrez une fenêtre de terminal (PowerShell ou Command Prompt) et clonez le dépôt Git en exécutant la commande suivante :
+
+```bash
+git clone https://github.com/Sanessy/MachineEnigma.git
+
+Une fois le dépôt cloné, déplacez-vous dans le répertoire du projet avec la commande suivante :
+
+```bash
+cd <CHEMIN_VERS_LE_REPERTOIRE>
+
+Excuter la machine enigma
+
+```bash
+python enigma.py
 
 ## Prérequis
 
