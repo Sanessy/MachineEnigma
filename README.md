@@ -36,6 +36,7 @@ python enigma.py ou .\enigma.py
 ## Prérequis
 
 -Python 3 (version 3.10.12 recommandée).
+
 -Aucune dépendance externe spécifique n'est requise.
   
 ## Exemple d'utilisation
@@ -64,7 +65,7 @@ Pour tester le déchiffrement dans un contexte representatif de Enigma, vous pou
 <img width="555" alt="enigmaterminal" src="https://github.com/user-attachments/assets/e15cfc26-5aa4-4d59-9f5a-63bf8077e1d3">
 
 #### Terminal 3 ( prouvant que un changement de la configuration initale entraine un changement complet du message chiffré ) 
-![image](https://github.com/user-attachments/assets/5bc7e931-23ad-4f28-94b7-e97062753035)
+<img width="539" alt="terminal3" src="https://github.com/user-attachments/assets/3b439529-59da-4cfa-b81c-53f435db7304">
 
 
 
