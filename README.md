@@ -57,6 +57,12 @@ Pour tester le déchiffrement dans un contexte representatif de Enigma, vous pou
 6. Resultat : Le texte déchiffré correspond bien au texte initialement chiffré.
    
 
+## Terminal 1 
+<img width="626" alt="enigmaterminalvscode" src="https://github.com/user-attachments/assets/25f741cb-c738-4a08-aaaa-5e83c80b380c">
+
+## Terminal 2
+<img width="555" alt="enigmaterminal" src="https://github.com/user-attachments/assets/e15cfc26-5aa4-4d59-9f5a-63bf8077e1d3">
+
 
 
 
