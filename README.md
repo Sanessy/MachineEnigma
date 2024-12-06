@@ -2,19 +2,20 @@
 
 ## Description
 
-Ce projet dans le cadre du module de M2 MIAGE de Cryptographie & Blockchain implémente une simulation de la machine **Enigma**, utilisée principalement pendant la Seconde Guerre mondiale pour chiffrer et déchiffrer des messages. Le programme permet dans un premier temps d'initialiser la machine Enigma en réalisant une substitution initiale de caractères avec le texte que l'on souhaite chiffrer. Le programme permet par la suite de configurer les rotors puis de chiffrer et déchiffrer des messages.
+Ce projet, réalisé dans le cadre du module de M2 MIAGE de Cryptographie & Blockchain, implémente une simulation de la machine **Enigma**, utilisée principalement pendant la Seconde Guerre mondiale pour chiffrer et déchiffrer des messages. Le programme permet de simuler les étapes suivantes :
+
+1. Initialisation de la machine Enigma, avec une première substitution de caractères pour le texte à chiffrer.
+2. Configuration des rotors.
+3. Chiffrement et déchiffrement des messages.
 
 ## Langage
 
-Ce projet est écrit en **Python** 3.10.12 
+Ce projet est développé en **Python** version 3.10.12.
 
-## Executer le projet
-
-Pour cloner ce projet sur votre machine, exécutez la commande suivante : git clone https://github.com/Sanessy/MachineEnigma.git
 
 ### 1. Cloner le dépôt
 
-Ouvrez une fenêtre de terminal (PowerShell ou Command Prompt) et clonez le dépôt Git en exécutant la commande suivante :
+Ouvrez une fenêtre de terminal (PowerShell) et clonez le dépôt Git en exécutant la commande suivante :
 
 ```bash
 git clone https://github.com/Sanessy/MachineEnigma.git
@@ -25,6 +26,7 @@ Une fois le dépôt cloné, déplacez-vous dans le répertoire du projet avec la
 ```bash
 cd <CHEMIN_VERS_LE_REPERTOIRE>
 ```
+
 Excuter la machine enigma
 
 ```bash
@@ -33,12 +35,12 @@ python enigma.py ou .\enigma.py
 ```
 ## Prérequis
 
-- Python 3
-- Aucune dépendance externe spécifique n'est requise.
+-Python 3 (version 3.10.12 recommandée).
+-Aucune dépendance externe spécifique n'est requise.
   
 ## Exemple d'utilisation
 
-1. Le programme vous demandera de saisir dans un premier temps :
+1. Le programme vous demandera de saisir dans un premier temps de chiffrer :
 
     1.1 **Phrase à chiffrer** : par exemple, `cryptographie`.  
     1.2 **Configuration initiale** : une série de lettres pour une première substitution, par exemple `qsdfghjklmwxc`.  
@@ -47,7 +49,14 @@ python enigma.py ou .\enigma.py
     
     1.3 **Positions des rotors** : entrez les positions initiales des trois rotors, par exemple `1`, `3`, `5`.
 
-2. Le programme retourne le message chiffré après application des étapes
-3. Le programme vous demande si vous souhaitez déchiffrer le message : "oui" ou "non"
+2. Le programme retourne le message chiffré après application des étapes de chiffrement de l'algorithme
+   
+4. Le programme vous demandera si vous souhaitez déchiffrer le message : répondez par "oui" ou "non".
+Pour tester le déchiffrement dans un contexte representatif de Enigma, vous pouvez ouvrir un deuxième terminal et exécuter le programme avec la même configuration initiale (série de lettres de substitution, positions des rotors).
+
+6. Resultat : Le texte déchiffré correspond bien au texte initialement chiffré.
+   
+
+
 
 
