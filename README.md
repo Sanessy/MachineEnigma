@@ -41,7 +41,7 @@ python enigma.py ou .\enigma.py
   
 ## Exemple d'utilisation
 
-1. Le programme vous demandera de saisir dans un premier temps de chiffrer :
+1. Le programme vous demandera de saisir dans un premier temps le texte/phrase que vous souhaitez chiffrer :
 
     1.1 **Phrase à chiffrer** : par exemple, `cryptographie`.  
     1.2 **Configuration initiale** : une série de lettres pour une première substitution, par exemple `qsdfghjklmwxc`.  
